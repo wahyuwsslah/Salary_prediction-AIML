@@ -6,7 +6,7 @@ This project aims to predict employee salary based on years of work experience u
 ## Data Preparation
 - The data is taken from the file 'salary_data.csv'.
 - The dataset contains the information: Employee ID, years of experience, and salary
-- Total 200 employee data with 3 columns
+- Total 100 employee data with 3 columns
 
 ## Exploratory Data Analysis (EDA)
 - Visualization using scatter plot to see the relationship between experience and salary
